@@ -1,0 +1,49 @@
+
+sample_data = {
+    'age': 45,
+    'hypertension': 1,
+    'heart_disease': 0,
+    'bmi': 25.5,
+    'HbA1c_level': 6.2,
+    'blood_glucose_level': 120,
+    'gender_Female': 0,
+    'gender_Male': 1,
+    'gender_Other': 0,
+    'smoking_history_No Info': 0,
+    'smoking_history_current': 0,
+    'smoking_history_ever': 1,
+    'smoking_history_former': 0,
+    'smoking_history_never': 0,
+    'smoking_history_not current': 0
+}
+
+
+
+sample_df = pd.DataFrame([sample_data])
+
+# Make predictions
+predictions = clf.predict(sample_df)
+print(predictions)
+
+
+curl -X POST \
+  -H "Content-Type: application/json" \
+  -d '{
+    "age": 45,
+    "hypertension": 1,
+    "heart_disease": 0,
+    "bmi": 25.5,
+    "HbA1c_level": 6.2,
+    "blood_glucose_level": 120,
+    "gender_Female": 0,
+    "gender_Male": 1,
+    "gender_Other": 0,
+    "smoking_history_No Info": 0,
+    "smoking_history_current": 0,
+    "smoking_history_ever": 1,
+    "smoking_history_former": 0,
+    "smoking_history_never": 0,
+    "smoking_history_not current": 0
+  }' \
+  http://localhost:5000/predict
+
