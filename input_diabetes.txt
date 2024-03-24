@@ -19,6 +19,7 @@ sample_data = {
 
 
 
+
 sample_df = pd.DataFrame([sample_data])
 
 # Make predictions
