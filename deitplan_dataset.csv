@@ -1,0 +1,1001 @@
+age,Gender,BMI,Sugar Level (mg/dL),Diet Plan
+88,Male,34.3,147,Green Beans
+82,Male,31.5,294,Pulao
+23,Female,22.5,232,Chicken Tikka
+26,Male,29.4,156,Quinoa
+61,Female,20.9,251,Grapes
+20,Male,26.1,90,Pongal
+54,Male,24.5,289,Green Beans
+25,Female,27.3,280,Zucchini Noodles
+43,Male,19.8,252,Chapati
+53,Female,32,93,Grilled Salmon
+59,Female,27.3,153,Whole Wheat Bread
+71,Male,24.8,197,Paneer
+49,Female,32.1,259,Carrots
+77,Female,20.3,136,Chicken Curry
+64,Male,21.8,199,Fatayer
+37,Male,24.9,132,Quinoa Pasta
+61,Male,34.5,153,Aloo Paratha
+57,Female,20.9,193,Lean Beef
+56,Male,31.5,95,Quinoa
+28,Male,19.6,147,Watermelon
+49,Female,26.8,251,Chickpeas
+46,Female,21.4,221,Carrots
+69,Female,21.2,116,Fish Tacos
+67,Male,28.7,103,Avocado
+27,Female,24.2,169,Chana Masala
+28,Female,24.9,102,Lentil Soup
+79,Male,30,209,Pulao
+69,Male,19.5,130,Mutton Biryani
+71,Male,26.8,210,Turkey Chili
+62,Male,27.1,224,Apples
+70,Male,27.4,100,Bell Pepper
+40,Female,23.4,241,Tofu
+22,Male,27,124,Lean Beef
+82,Male,33.5,138,Greek Yogurt
+61,Male,20.3,241,Flaxseeds
+28,Male,31.9,156,Makbous
+33,Male,33.9,119,Tomato
+82,Male,32.3,296,Berries (mixed)
+54,Male,24.3,175,Maamoul
+88,Male,19.9,196,Grapes
+90,Female,23.6,272,Pav
+31,Male,26.1,142,Chicken Curry
+42,Male,30.2,226,Dosa
+64,Female,24.6,163,Quorn
+42,Male,25.2,109,Mandi
+42,Male,25.3,101,Avocado
+41,Female,30.5,127,Kheer
+51,Male,32.3,239,Coconut
+37,Female,20.6,75,Almonds
+48,Male,28.4,218,Chole Bhature
+34,Male,34.4,83,Lamb Shawarma
+32,Male,31,285,Chicken Curry
+25,Female,23.4,78,Oats
+88,Female,34.5,180,Baingan Bharta
+48,Male,23.8,245,Celery
+57,Male,30.3,171,Green Tea
+43,Male,29.6,129,Steamed Broccoli
+25,Male,33.5,75,Chicken Tikka
+75,Female,30.9,192,Fish Fry
+79,Male,31.4,125,Vegetable Curry
+22,Male,21.1,255,Raspberries
+30,Male,23.6,117,Oats
+48,Female,27.8,118,Grilled Salmon
+61,Female,29.9,74,Grapes
+27,Male,24.1,276,Olive Oil
+41,Female,20,228,Dahi Vada
+33,Female,31.6,259,Medu Vada
+81,Female,33,189,Broccoli
+87,Male,33.1,130,Vegetable Pulao
+67,Male,19.9,97,Pakora
+54,Female,32.4,70,Spinach
+75,Male,33.6,299,Lettuce
+74,Female,35,297,Kabsa
+84,Female,27.3,193,Lassi
+44,Male,24.8,210,Nuts
+39,Male,19.9,70,Chole Bhature
+52,Female,24.6,116,Rava Idli
+36,Female,22.2,245,Soy Milk
+85,Male,24.6,180,Mutton Biryani
+71,Female,23.5,133,Chicken Breast
+23,Male,26.3,216,Kunafa
+81,Male,31.8,185,Kale
+51,Female,20.4,277,Manakish
+35,Male,21.9,146,Mango Juice
+83,Female,24.6,287,Vegetable Soup
+88,Male,32.6,83,Za'atar Manakish
+55,Female,29.8,292,Maamoul
+85,Male,26.5,248,Mansaf
+38,Female,21.6,92,Kadhi Pakora
+75,Male,20.7,146,Spinach
+35,Female,33.6,220,Chicken Korma
+67,Female,20.9,287,Coconut Chutney
+53,Female,34.6,139,Oranges
+80,Female,30.1,291,Seaweed
+73,Female,33.5,226,Peanuts
+78,Male,20.9,82,Chicken Breast
+49,Female,32.4,133,Celery
+69,Female,34.3,280,Pesarattu
+39,Female,34.6,171,Brown Bread
+53,Male,27,250,Kale
+66,Male,22.1,191,Lettuce
+65,Male,27,83,Maamoul
+66,Male,30.7,284,Raita
+58,Female,25.3,147,Roasted Turkey
+83,Male,19.6,149,Foul Sandwich
+37,Female,29.2,212,Barley
+70,Male,33.7,281,Chicken Shawarma
+86,Male,27.8,278,Oats
+25,Male,25.2,127,Cauliflower
+45,Female,34.3,200,Rasam
+65,Female,27.5,106,Kheer
+55,Male,31.2,110,Tuna
+78,Female,34.8,120,Mango Chutney
+47,Female,23.1,266,Rajasthani Dal
+25,Male,29.8,170,Brown Rice
+43,Female,23.9,256,Pineapple
+47,Male,22.5,292,Pork Tenderloin
+49,Female,29.6,294,Kidney Beans
+25,Female,30,150,Mushrooms
+25,Male,31,148,Mushrooms
+30,Male,33.4,85,Asparagus
+24,Female,19.5,164,Pineapple
+36,Female,21.3,99,Kheer
+34,Female,23.5,132,Quinoa
+25,Male,34,258,Olive Oil
+31,Male,34.1,292,Broccoli
+76,Female,34.5,75,Cucumber
+76,Female,30.1,94,Mutton Rogan Josh
+38,Female,27.9,229,Lentils
+68,Male,24.2,298,Avocado
+80,Female,21.2,268,Foul Medames
+78,Female,23.7,168,Peanuts
+21,Female,22.9,126,Quinoa Salad
+50,Female,34.7,189,Cucumber
+35,Female,32.9,183,Rava Idli
+65,Female,20.6,201,Grapes
+32,Female,21,139,Aloo Paratha
+68,Female,22.5,141,Dahi Vada
+60,Female,20.1,199,Greek Yogurt
+40,Female,20.5,88,Oranges
+35,Female,27.6,283,Brussels Sprouts
+89,Male,31.5,80,Lentils
+65,Male,31.4,277,Za'atar Manakish
+28,Female,20.8,219,Pork Tenderloin
+39,Female,19.2,106,Samosa Chaat
+31,Female,23.5,162,Oats
+47,Male,19,108,Eggplant
+74,Female,31.7,208,Kachori
+71,Female,21.1,250,Carrots
+29,Male,27.6,286,Carrot
+65,Male,21.1,246,Chicken Soup
+43,Male,34.9,79,Mango Lassi
+54,Male,29.5,131,Veggie Burger
+55,Female,21.4,279,Apple
+29,Female,32,108,Strawberries
+44,Female,29.2,186,Cauliflower
+70,Male,18.8,247,Labneh Manakish
+42,Male,30.4,244,Chicken Breast
+58,Male,23.9,213,Tandoori Chicken
+37,Male,30.5,286,Grilled Chicken
+54,Male,32.2,157,Lamb
+66,Female,22.5,105,Foul Medames
+27,Male,33.9,100,Flaxseeds
+87,Female,21.9,150,Coconut Milk
+87,Female,19.7,236,Rajma Chawal
+74,Female,22.8,259,Pav Bhaji
+50,Female,32.4,222,Papdi Chaat
+44,Male,19.1,129,Foul Medames
+22,Male,19.7,258,Kidney Beans
+71,Female,25.6,110,Mushrooms
+53,Male,30.4,262,Coconut Milk
+26,Male,31,151,Mango Juice
+49,Female,28.7,100,Turkey Breast
+55,Female,26.9,80,Lentils
+43,Male,25.7,287,Lamb
+32,Female,20,192,Eggplant Parmesan
+54,Male,24.8,183,Baingan Bharta
+21,Male,31.8,164,Aloo Paratha
+66,Male,32.1,237,Kidney Beans
+74,Male,25.3,124,Rajma Chawal
+67,Male,20.1,94,Miso Soup
+54,Male,33.6,295,Chia Seeds
+61,Female,21.9,230,Berries (mixed)
+25,Male,18.6,271,Green Beans
+35,Male,19.2,96,Lettuce
+47,Male,29,148,Quinoa
+24,Male,33.2,252,Salmon
+68,Male,30.7,259,Lean Beef
+83,Female,25.4,142,Gulab Jamun
+76,Male,22.4,103,Moutabal
+86,Male,21.2,102,Spinach
+74,Male,33.6,134,Tuna Salad
+73,Male,33.8,188,Rava Upma
+82,Female,30.8,192,Bhindi Masala
+69,Female,19.2,161,Blueberries
+30,Female,25.2,293,Pav Bhaji
+42,Male,25.5,201,Peanuts
+79,Female,29.2,246,Salmon
+34,Female,34.5,227,Upma
+89,Female,21.8,224,Strawberries
+53,Female,34.4,250,Chia Seed Oil
+55,Male,27,237,Lamb Ouzi
+74,Female,18.8,179,Upma
+31,Male,24.1,236,Ginger
+26,Female,30.2,126,Banana
+87,Male,25.7,187,Green Tea
+85,Female,25.5,132,Quorn
+84,Female,32.4,193,Peanuts
+23,Female,20.8,186,Lean Beef
+23,Male,29.4,109,Lentils
+25,Female,19.9,257,Apple
+72,Male,22.4,216,Caprese Salad
+80,Male,28.8,153,Raspberries
+48,Female,30.9,114,Brown Bread
+82,Male,21,251,Foul Sandwich
+72,Male,22.1,97,Tabbouleh
+78,Female,30.5,123,Chicken Soup
+84,Female,22,104,Oats
+61,Male,22,155,Strawberries
+29,Male,20.7,300,Dahi Vada
+87,Male,20,289,Maamoul
+89,Male,24.8,295,Mujadara
+22,Female,31.3,261,Coconut Oil
+48,Female,19.8,138,Lettuce
+44,Male,21.1,200,Lamb Kabsa
+55,Female,27.6,103,Lentils
+46,Female,28.8,96,Zucchini Noodles
+27,Female,24.2,210,Pears
+60,Male,21.6,220,Orange
+52,Male,28.7,300,Cucumber
+22,Female,34.1,164,Pineapple
+61,Male,29.4,245,Zucchini Noodles
+20,Female,34.6,102,Chicken Curry
+67,Female,34,105,Baingan Bharta
+36,Female,22.6,248,Almond Butter
+45,Male,22.8,230,Baingan Bharta
+38,Male,30.6,213,Quinoa
+70,Male,31.8,135,Arayes
+50,Female,31.3,87,Zucchini Noodles
+59,Female,28.8,169,Mutton Biryani
+23,Male,29.6,177,Palak Paneer
+39,Female,30.2,116,Olive Oil
+23,Male,29.5,227,Lamb
+73,Female,25.1,169,Brown Lentils
+45,Female,30.3,170,Samosa Chaat
+33,Female,30.3,157,Tuna Salad
+48,Female,30,71,Cauliflower
+80,Female,31,298,Broccoli
+83,Male,33.2,117,Oats
+21,Male,26.4,95,Brown Rice
+48,Male,18.6,203,Chicken Salad
+57,Female,34.6,272,Butter Naan
+89,Female,26.4,138,Chia Seed Oil
+64,Male,20,240,Aloo Paratha
+52,Male,33.3,158,Chicken Curry
+31,Male,18.6,177,Rajasthani Dal
+23,Female,25.1,181,Malai Paneer
+68,Male,24.3,157,Cod
+85,Female,29.2,221,Peanuts
+31,Female,26.7,184,Dhokla
+65,Male,28.2,225,Quinoa Salad
+87,Female,30.4,192,Cabbage
+90,Male,22.5,198,Lentils
+31,Male,23.6,279,Eggplant
+37,Female,28.4,158,Greek Yogurt
+67,Female,24.8,193,Dahi Vada
+34,Female,28.9,76,Cauliflower Rice
+83,Male,21.1,261,Baigan Masala
+28,Female,28.2,104,Chole Bhature
+43,Female,34.9,238,Quinoa
+49,Female,29.5,189,Puliyogare
+73,Female,23.3,134,Lettuce
+23,Female,33,261,Coconut
+36,Female,25.7,164,Chicken Breast
+20,Male,34.3,193,Chicken Breast
+60,Male,34.2,126,Lean Beef
+51,Female,26.6,288,Cauliflower
+74,Male,22.1,209,Rasgulla
+41,Male,29.3,114,Carrot
+37,Male,22.1,256,Asparagus
+84,Male,30.4,262,Cottage Cheese
+90,Male,34.1,289,Chicken Breast
+22,Male,29.2,159,Walnuts
+77,Male,24.2,122,Berries (mixed)
+67,Male,28.9,242,Lean Beef
+90,Male,27.9,156,Kale
+50,Female,19.9,294,Tomato
+41,Female,24.9,168,Salmon
+50,Male,28.9,266,Pork Tenderloin
+46,Female,27.4,78,Uttapam
+35,Male,25.9,200,Cucumber
+43,Female,21.1,98,Carrots
+69,Male,27.9,165,Fish Curry
+84,Female,26.1,90,Chana Masala
+40,Female,19.9,248,Lassi
+22,Male,31.4,265,Peanuts
+33,Female,23.8,211,Tomato Soup
+84,Female,24.5,115,Lettuce
+56,Male,26,147,Zucchini
+63,Female,33.8,96,Blueberries
+64,Male,18.6,253,Chole Bhature
+55,Female,20.8,135,Tomato
+79,Male,34.3,91,Chickpeas
+78,Female,33.2,216,Salmon
+53,Male,23.6,195,Moutabal
+58,Male,18.6,76,Broccoli
+83,Male,30.6,72,Grilled Salmon
+49,Male,33.7,278,Lettuce
+75,Male,19.1,146,Oranges
+75,Female,23.6,240,Eggplant Parmesan
+69,Female,34,232,Fattoush
+68,Female,34.7,266,Oats
+63,Male,22.4,255,Spinach
+81,Male,23.6,109,Turkey Breast
+21,Male,25.9,254,Celery
+49,Male,26.2,186,Flaxseeds
+31,Male,26.5,111,Paneer
+34,Male,25.1,285,Malai Kofta
+74,Male,24.8,202,Vegetable Biryani
+86,Female,25,230,Spinach
+68,Female,22.4,251,Chicken Salad
+30,Female,31.9,241,Chickpeas
+42,Female,20,110,Chana Masala
+27,Female,26.4,247,Walnuts
+33,Male,30,84,Laban
+46,Female,18.6,291,Zucchini Noodles
+58,Female,25,263,Samosa
+72,Female,30.6,262,Lean Beef
+60,Female,33.5,228,Zucchini
+32,Male,30.2,185,Brown Rice
+31,Female,33.5,106,Manakish
+38,Female,28.6,142,Brown Bread
+73,Male,20.4,160,Mutton Biryani
+64,Female,25.2,73,Zucchini Noodles
+82,Female,20.1,299,Oats
+50,Male,29.6,255,Chicken 65
+86,Female,20.4,148,Grapes
+69,Female,23,173,Raita
+64,Female,30.8,213,Almonds
+71,Female,25.3,144,Blueberries
+57,Male,28.1,264,Mutton Rogan Josh
+68,Male,34.4,283,Lean Beef
+35,Female,19.1,240,Chicken Biryani
+31,Male,28.4,231,Seaweed
+64,Female,28.6,222,Blueberries
+81,Male,28.8,234,Mango Lassi
+73,Male,34.6,273,Lentils
+51,Male,20.6,71,Quinoa Salad
+76,Male,30.1,93,Turkey Breast
+44,Female,23,116,Chicken Breast
+55,Male,32.1,197,Gulab Jamun
+83,Female,30.5,177,Chapati
+36,Female,25,202,Miso Soup
+83,Male,19.7,130,Lamb Ouzi
+44,Female,19.6,296,Vegetable Pulao
+30,Male,20.3,243,Almonds
+62,Female,32.2,228,Green Tea
+43,Female,25,254,Oats
+81,Male,31.9,99,Rava Idli
+49,Male,23.1,253,Veggie Burger
+58,Female,30.4,87,Shish Taouk
+56,Male,33.5,192,Greek Yogurt
+90,Female,25.5,267,Kheer
+51,Female,30.8,202,Palak Paneer
+44,Male,18.9,85,Zucchini
+83,Female,34.6,129,Green Beans
+44,Male,25.6,108,Blueberries
+82,Female,28.2,222,Miso Soup
+60,Male,25.4,206,Barley
+80,Male,18.6,218,Chicken Breast
+55,Male,19.5,73,Carrots
+89,Male,29.1,273,Radish
+32,Female,23.1,183,Broccoli
+34,Female,31.1,76,Split Pea Soup
+73,Male,22.3,249,Coconut Chutney
+66,Female,27,221,Hummus
+20,Male,31.9,73,Quinoa
+61,Male,20,104,Apples
+82,Male,29.4,222,Pesarattu
+83,Male,21.3,255,Falafel Wrap
+51,Female,23.6,192,Fish Tacos
+47,Female,26.5,257,Green Peas
+21,Male,25.8,249,Fattoush
+66,Male,23.2,208,Watermelon
+90,Female,20.8,111,Mutton Biryani
+72,Female,20,105,Rava Idli
+85,Female,22.9,127,Grilled Salmon
+88,Female,25.2,216,Cauliflower
+74,Male,24.8,242,Greek Yogurt
+22,Male,26,104,Maamoul
+39,Female,28.9,260,Mushroom Soup
+69,Female,20,208,Veggie Burger
+74,Male,34.9,127,Greek Yogurt
+63,Female,28.2,89,Brown Lentils
+39,Male,24.4,238,Shahi Paneer
+74,Male,25.8,265,Bell Peppers
+73,Male,26.6,73,Onions
+38,Male,29.8,207,Kiwi
+83,Male,33.7,202,Vegetable Biryani
+25,Female,30.9,110,Kheer
+59,Male,19.9,129,Chicken Breast
+69,Male,31.1,231,Berries (mixed)
+73,Female,21.9,192,Chicken Biryani
+59,Male,28.3,132,Shrimp Stir-Fry
+32,Female,24,256,Lamb
+38,Female,34.7,137,Cucumber
+82,Female,34.8,202,Lean Beef
+62,Female,21.3,92,Dal
+88,Female,18.5,215,Green Tea
+38,Female,34.1,287,Lentils
+56,Female,26.3,216,Kale
+24,Male,19.6,293,Chia Seeds
+75,Male,32,247,Rajma Masala
+46,Female,28.7,77,Chicken Salad
+52,Male,33.3,250,Blueberries
+73,Female,24.9,92,Baigan Masala
+30,Male,27.7,100,Rice
+78,Female,20.2,157,Bell Pepper
+22,Female,32.6,293,Spinach
+35,Male,22.4,98,Eggplant
+40,Male,20,84,Avocado
+61,Male,25.2,237,Malai Paneer
+30,Female,22.8,206,Quinoa Pasta
+73,Female,24.9,207,Raspberries
+33,Female,19,216,Cucumber
+40,Female,24.6,151,Pork Tenderloin
+68,Male,26,188,Shish Taouk
+20,Female,22.4,266,Lamb
+45,Male,31,131,Kheer
+73,Male,26.6,295,Olive Oil
+42,Female,25.3,177,Strawberries
+34,Male,24.4,294,Sweet Potato
+60,Female,26,291,Gulab Jamun
+88,Male,34.8,126,Eggplant
+64,Female,31.3,70,Lemon Rice
+24,Male,22.8,118,Quorn
+69,Female,22.3,130,Butter Chicken
+87,Male,31.8,298,Vegetable Biryani
+30,Male,31.8,74,Pani Puri
+43,Male,34.1,85,Split Pea Soup
+49,Male,29,235,Soy Milk
+41,Male,27.8,150,Green Beans
+69,Female,26.4,291,Pesarattu
+64,Male,23,138,Turkey Breast
+84,Male,33.4,130,Methi Thepla
+25,Male,28.5,184,Watermelon
+28,Female,28.3,147,Aloo Tikki
+54,Female,25,206,Asparagus
+37,Female,25.4,140,Onions
+30,Male,25.3,195,Vegetable Pulao
+81,Female,19.3,261,Cauliflower Rice
+51,Male,23.9,136,Puri
+60,Female,29.7,162,Avocado
+80,Female,26,95,Oats
+62,Female,32.6,214,Chicken Breast
+58,Male,24.7,288,Oats
+74,Male,27,160,Shish Taouk
+32,Female,31.4,248,Oats
+55,Female,31.8,210,Avocado
+86,Female,33.5,222,Vegetable Pulao
+33,Female,23.9,114,Turkey Breast
+88,Female,31.2,98,Brown Bread
+67,Female,18.9,280,Quinoa
+80,Female,19.9,167,Lean Beef
+36,Female,19.7,94,Fish Fry
+41,Male,22.1,81,Zucchini Noodles
+51,Male,28.3,179,Baked Chicken
+82,Male,26.3,199,Turkey Breast
+28,Female,22,107,Malabar Parotta
+26,Male,30.7,163,Oranges
+26,Female,20.8,224,Kadhi Pakora
+33,Female,18.8,105,Greek Salad
+38,Male,23.2,261,Chicken Curry
+42,Male,18.8,120,Black Beans
+48,Female,24.9,237,Cottage Cheese
+68,Male,33.7,140,Banana
+42,Male,26.4,249,Chia Seeds
+50,Female,26.4,165,Chicken Shawarma
+35,Male,30.6,257,Quinoa
+73,Male,29,112,Rasgulla
+28,Male,31.6,130,Mansaf
+69,Female,29.4,125,Brussels Sprouts
+78,Female,19.2,123,Green Beans
+34,Male,22,225,Peanuts
+42,Female,22.1,189,Mushrooms
+49,Female,31.3,116,Chickpeas
+56,Female,33.5,177,Gobi Manchurian
+81,Male,25,289,Chicken Korma
+89,Male,22.1,278,Cauliflower
+28,Female,32.9,241,Rasgulla
+28,Female,22.4,243,Broccoli
+69,Male,34,179,Stir-Fried Tofu
+64,Male,31.2,222,Mandi
+89,Female,23.8,206,Shawarma
+47,Male,21.2,202,Chickpeas
+70,Male,25.8,275,Tomatoes
+53,Female,34.7,185,Baked Chicken
+75,Male,31.6,93,Greek Yogurt
+45,Male,30.7,295,Miso Soup
+57,Female,29.9,126,Lettuce
+28,Female,23.6,251,Muhallabia
+64,Male,29.3,293,Greek Salad
+68,Female,19.7,276,Miso Soup
+63,Female,21.1,177,Quinoa
+73,Female,28.4,156,Aloo Gobi
+75,Female,32.4,287,Zucchini
+24,Male,28.1,87,Berries (Mixed)
+65,Male,22.5,87,Shakshuka
+59,Female,20.7,124,Greek Salad
+70,Male,32.9,168,Kofta
+20,Female,27.5,242,Peanuts
+42,Female,33.6,229,Whole Wheat Pasta
+40,Male,31.4,87,Peanuts
+80,Female,33.3,263,Orange
+42,Male,32.6,239,Egg Whites
+30,Female,26.5,213,Lamb Kofta
+46,Male,18.9,189,Dosa
+29,Male,32.6,78,Berries (Mixed)
+71,Female,19.4,101,Vegetable Pulao
+65,Male,27.1,196,Brown Lentils
+33,Female,20.4,176,Almonds
+66,Male,32.6,201,Eggplant
+70,Female,34.1,156,Aloo Tikki
+55,Male,33.6,289,Oats
+86,Female,27.7,181,Pineapple
+63,Female,33.7,223,Quinoa
+84,Female,25.4,219,Salmon
+65,Female,34.8,147,Watermelon
+42,Male,31.1,108,Black Beans
+25,Male,25.3,184,Raita
+78,Female,31.1,263,Grapes
+52,Male,33.8,117,Vegetable Korma
+33,Male,22.6,187,Seaweed
+46,Female,18.6,252,Asparagus
+56,Male,27.2,218,Oats
+23,Female,28.2,116,Salmon
+47,Male,25.2,106,Grapes
+24,Male,21.7,153,Rava Upma
+30,Female,32.9,122,Chickpeas
+40,Male,24.9,122,Almonds
+88,Female,27.3,139,Malai Paneer
+84,Male,31,83,Chicken Korma
+46,Male,25.7,290,Bhindi Masala
+74,Male,21.6,120,Kofta
+27,Female,33.9,91,Celery
+21,Female,24,194,Oats
+23,Female,29.4,287,Oats
+85,Male,34.4,199,Apples
+52,Female,26.9,101,Shish Taouk
+69,Male,29.6,188,Matar Paneer
+88,Male,30.4,267,Lean Beef
+66,Male,22.3,149,Cabbage
+68,Male,24.5,259,Broccoli
+89,Male,20.3,295,Spinach Salad
+43,Male,21.1,266,Lentil Soup
+77,Male,21.6,263,Miso Soup
+74,Male,23.3,261,Muhallabia
+49,Female,21.9,237,Aloo Tikki
+55,Male,30.6,281,Za'atar Manakish
+44,Female,25.5,260,Watermelon
+42,Female,24.1,127,Barley
+31,Male,21.5,89,Kunafa
+84,Female,31.4,84,Puri
+88,Male,31.3,280,Chicken Biryani
+56,Female,21,191,Zucchini
+64,Male,32.5,166,Eggplant
+75,Female,30.5,73,Brown Rice
+43,Male,20.7,278,Walnuts
+71,Male,22.7,165,Greek Yogurt
+46,Female,30.7,75,Quinoa
+47,Male,25,290,Cabbage
+31,Female,28.2,168,Muhallabia
+42,Female,27.9,83,Kadhi Pakora
+45,Male,22.2,128,Paneer Butter Masala
+29,Male,25.2,221,Carrot
+44,Male,30.4,88,Oats
+39,Male,21.6,209,Grapes
+64,Female,32.7,159,Bell Pepper
+81,Male,33.2,261,Lean Beef
+84,Female,21.8,252,Kale
+21,Male,32.5,254,Almonds
+51,Female,19.9,81,Pulao
+76,Male,27.6,74,Oranges
+84,Female,25.5,182,Bell Pepper
+32,Male,22.3,284,Rajma Masala
+48,Male,23.4,185,Peanuts
+71,Female,24.5,159,Raspberries
+82,Female,22.3,171,Cauliflower Rice
+32,Male,31.5,209,Artichokes
+90,Female,26.7,159,Grapes
+62,Female,32.8,186,Whole Wheat Bread
+79,Male,23.7,183,Broccoli
+86,Male,20.6,296,Lamb Kabsa
+62,Female,27.4,209,Asparagus
+56,Male,28.2,228,Methi Paratha
+90,Female,24.9,211,Cabbage
+63,Male,31.8,279,Oats
+23,Male,31.1,230,Chicken Mandi
+21,Male,29.2,150,Pulao
+60,Female,26.4,203,Quinoa
+29,Female,34,184,Chicken Curry
+50,Female,29.3,262,Chia Seeds
+80,Male,27.8,230,Samosa Chaat
+33,Male,32.9,158,Avocado
+36,Female,25.9,97,Mango Chutney
+37,Female,26.7,187,Lamb Shawarma
+22,Female,30.6,186,Kachori
+88,Male,33.1,150,Gajar Halwa
+28,Male,24.8,94,Baingan Bharta
+45,Female,21.3,250,Rajasthani Dal
+71,Male,31.4,223,Fish Tacos
+43,Male,21.8,168,Quinoa
+20,Female,26.3,191,Baba Ganoush
+51,Female,22.3,250,Cauliflower Rice
+32,Female,23.3,217,Grapes
+45,Male,34.1,108,Oranges
+35,Male,19.8,242,Lassi
+50,Female,27.5,173,Tuna
+84,Male,31.9,260,Fish Curry
+50,Female,27.1,158,Chole Bhature
+33,Male,21.2,97,Kabsa
+61,Female,24.2,115,Almonds
+57,Male,29.4,150,Quinoa Pasta
+50,Female,20.7,125,Mushrooms
+44,Female,18.9,127,Lamb
+80,Male,19.3,198,Blueberries
+37,Female,33.8,297,Aloo Paratha
+26,Male,26.1,157,Orange
+31,Male,33.8,92,Fish Fry
+46,Female,30.6,228,Eggplant
+44,Female,30.4,232,Pongal
+28,Male,28.2,241,Hummus
+57,Female,31.3,253,Gajar Halwa
+59,Male,33.1,167,Chana Masala
+25,Female,29.8,120,Rajma Chawal
+71,Male,20.4,201,Apple
+24,Male,19.3,226,Brown Rice
+83,Female,23.2,136,Cabbage
+90,Male,23,262,Gajar Halwa
+26,Female,25.1,215,Celery
+39,Female,24.8,124,Berries (mixed)
+59,Male,28.3,294,Falafel Wrap
+80,Male,18.5,165,Almonds
+84,Female,31.6,229,Cabbage
+58,Male,26.8,133,Lean Beef
+52,Male,27.5,168,Baba Ganoush
+36,Female,23.7,183,Aloo Gobi
+48,Female,29.5,293,Zucchini
+28,Male,23.8,110,Almonds
+88,Female,31.9,232,Flaxseed Oil
+90,Female,31.5,197,Barley
+21,Female,20.6,290,Turkey Chili
+83,Female,24.5,246,Blueberries
+69,Female,19.2,196,Green Tea
+33,Female,20.8,162,Turkey Breast
+58,Female,32.3,134,Tomato Soup
+41,Male,32.1,87,Chicken Tikka Masala
+24,Female,31.3,245,Baba Ganoush
+29,Female,23.7,153,Tomato
+66,Male,33.1,290,Rasgulla
+63,Male,31.8,251,Watermelon
+67,Female,27.8,261,Miso Soup
+65,Female,25.1,133,Almonds
+68,Female,29.6,109,Kale
+73,Male,27.1,205,Grapes
+83,Male,31.1,220,Tomato Soup
+47,Male,28.1,90,Lean Beef
+49,Female,20.5,283,Lean Beef
+36,Female,20.1,139,Foul Medames
+60,Female,34.7,87,Greek Yogurt
+79,Female,21.7,263,Black Beans
+38,Male,19.9,80,Green Peas
+28,Male,20.1,201,Harira Soup
+50,Female,20.7,281,Avocado
+44,Male,21.5,183,Chicken Kebab
+74,Male,28.3,122,Turkey Breast
+24,Female,19.3,214,Quinoa
+48,Female,23.6,179,Brown Rice
+50,Male,22.9,203,Mango Juice
+73,Male,30.5,92,Grapes
+53,Male,24.2,233,Tomato
+51,Male,28,141,Fish Fry
+51,Female,34.2,91,Salmon
+56,Male,33.9,199,Veg Cutlet
+37,Female,22.1,230,Steamed Vegetables
+62,Female,18.8,209,Lamb
+74,Female,25.1,186,Tandoori Roti
+47,Female,31.7,118,Chia Seeds
+41,Female,25.8,150,Chicken Biryani
+69,Female,26,295,Cauliflower
+26,Female,20,125,Cauliflower
+57,Male,32.4,198,Chia Seeds
+80,Female,29.1,284,Zucchini Noodles
+25,Female,18.8,168,Green Tea
+68,Female,28.6,80,Banana
+40,Male,32.4,150,Tandoori Chicken
+90,Female,34.8,250,Idli
+55,Female,29.3,104,Dosa
+39,Male,29,246,Shish Taouk
+50,Male,22.8,259,Tuna Salad
+33,Male,23.7,82,Kidney Beans
+30,Male,18.6,250,Palak Paneer
+71,Male,27.9,251,Cauliflower Rice
+81,Female,32.9,129,Chapati
+45,Female,32,117,Kale
+45,Female,20.4,168,Cauliflower Rice
+56,Female,30.1,165,Salmon
+84,Female,19,254,Pork Tenderloin
+53,Female,19.4,179,Turkey Breast
+28,Male,21.3,268,Grapes
+85,Female,25.9,74,Orange
+47,Male,32,117,Chicken Breast
+68,Female,22,85,Quinoa Pasta
+49,Female,32.9,287,Coconut Milk
+37,Female,33.5,136,Garlic
+33,Male,21.3,91,Dahi Vada
+29,Male,24.5,245,Dahi Vada
+47,Female,21.5,74,Labneh
+41,Male,32,247,Rice
+63,Female,28.7,255,Lettuce
+70,Male,31.6,145,Brown Rice
+49,Female,26.8,206,Roasted Turkey
+81,Male,24.6,110,Mushroom Soup
+70,Male,26.4,119,Samosa Chaat
+65,Female,33.7,84,Cabbage
+56,Female,18.8,172,Apple
+45,Male,22.8,124,Bell Peppers
+60,Female,22.7,237,Mango Juice
+35,Male,19,284,Fish Tacos
+62,Female,29.2,138,Dosa
+34,Male,29,105,Pear
+73,Female,30.1,287,Aloo Paratha
+38,Male,22.5,111,Oats
+80,Female,33.1,173,Kiwi
+46,Female,24.4,203,Chicken Biryani
+47,Male,21.6,127,Oranges
+61,Female,25.5,174,Split Pea Soup
+78,Female,25.3,142,Zucchini
+23,Female,32.2,139,Oats
+29,Female,30.5,263,Butter Chicken
+43,Female,26.8,281,Vegetable Korma
+41,Male,30.4,285,Zucchini
+21,Female,32,216,Pork Tenderloin
+79,Female,27.4,88,Watermelon
+23,Female,29.4,115,Quinoa
+81,Male,22.3,264,Soy Milk
+72,Male,23.2,111,Kiwi
+44,Male,27.3,163,Pani Puri
+28,Male,23.1,292,Green Tea
+37,Female,20.9,207,Gajar Halwa
+86,Male,27.5,169,Chicken Biryani
+35,Male,23.5,157,Gulab Jamun
+87,Female,32.3,281,Green Tea
+73,Male,22.5,258,Roasted Turkey
+55,Male,31.8,292,Dhokla
+40,Male,27.1,142,Cabbage
+25,Male,25.1,195,Cucumber
+63,Female,24.8,235,Tandoori Chicken
+66,Male,29.3,200,Karak Tea
+65,Male,34.9,238,Matar Paneer
+59,Male,34.7,165,Cucumber
+36,Male,24.2,184,Dahi Vada
+32,Male,30.2,216,Rajma Chawal
+27,Male,28.5,265,Tabbouleh
+26,Male,24.9,256,Quinoa
+63,Female,21.4,181,Garlic
+83,Male,23.4,235,Pav
+84,Female,29.3,134,Veg Biryani
+62,Female,33.7,155,Grilled Salmon
+85,Female,29.7,292,Vada Pav
+60,Female,24.2,71,Samosa
+42,Female,31.4,107,Fattoush
+50,Female,23.8,150,Cabbage
+63,Male,19.6,286,Orange
+74,Male,26.9,216,Carrot
+72,Male,32,142,Puliyogare
+33,Female,33.9,70,Celery
+26,Male,33.1,151,Greek Yogurt
+88,Female,25.8,276,Oats
+50,Male,24.7,86,Raita
+35,Male,34.2,219,Chia Seeds
+70,Female,20,223,Pav Bhaji
+59,Female,22.7,293,Whole Wheat Bread
+24,Female,30.1,114,Tuna Salad
+23,Female,29.4,169,Muhallabia
+59,Male,20.3,135,Labneh
+89,Male,26.4,138,Spinach
+51,Male,24.3,195,Brown Bread
+56,Male,20.2,100,Turkey Breast
+67,Female,33.1,92,Quinoa Salad
+78,Male,32.2,160,Brown Rice
+56,Female,32.1,169,Sambousek
+26,Female,19.4,161,Watermelon
+85,Female,22.5,258,Eggs
+51,Female,25.8,290,Greek Salad
+84,Female,26.4,174,Vegetable Pulao
+60,Female,25.5,226,Baba Ganoush
+36,Female,28.5,220,Fish Curry
+43,Female,28.1,218,Paneer Tikka
+62,Female,21.9,107,Pear
+80,Male,29.9,163,Quinoa
+37,Male,20.1,126,Kadai Paneer
+70,Female,31,107,Coconut Oil
+34,Female,26.7,238,Watermelon
+48,Male,29.6,161,Pav Bhaji
+47,Male,21.7,206,Onions
+60,Male,23.7,205,Pineapple
+79,Male,22,244,Chickpeas
+59,Male,29.7,144,Shahi Paneer
+73,Female,20.8,172,Chicken Shawarma
+31,Male,25.5,176,Matar Paneer
+69,Female,27.3,218,Eggplant
+44,Female,28.4,196,Flaxseeds
+41,Male,31.1,139,Almonds
+65,Female,25.9,232,Grapes
+61,Male,20.4,244,Brown Rice
+76,Female,27.4,139,Tomatoes
+64,Female,28.4,206,Sweet Potato
+58,Male,27.2,137,Cauliflower Rice
+44,Male,26.8,157,Fish Tacos
+38,Female,27.7,236,Kibbeh Nayyeh
+76,Male,20.1,273,Spinach
+44,Male,33.8,74,Chicken Curry
+63,Female,19.2,163,Foul Medames
+20,Female,25,230,Lettuce
+20,Male,26.3,186,Cauliflower
+87,Female,18.8,237,Hummus
+53,Male,20,72,Flaxseed Oil
+25,Male,22,244,Dahi Vada
+70,Male,20.2,286,Almond Milk
+77,Female,26.9,136,Cucumber
+28,Female,19.7,156,Lettuce
+72,Female,30.4,184,Samosa
+26,Male,31,200,Soy Milk
+68,Female,34.5,196,Mutton Rogan Josh
+53,Female,30.5,107,Grapes
+84,Male,32.8,87,Chicken Breast
+65,Male,28.9,208,Tandoori Chicken
+57,Male,28.8,186,Mushrooms
+87,Male,29,179,Watermelon
+86,Female,18.5,100,Mushrooms
+47,Male,28.8,161,Chicken Tikka Masala
+54,Female,34.1,99,Grapes
+45,Female,24.7,246,Chia Seed Oil
+32,Male,32.6,107,Chole Bhature
+51,Female,28.5,118,Rasam
+55,Male,23.5,93,Apples
+69,Male,30,189,Chicken Korma
+55,Female,18.9,240,Roasted Turkey
+51,Female,30.9,119,Palak Paneer
+58,Male,21.2,165,Pani Puri
+59,Female,21.8,273,Chia Seed Oil
+67,Male,31.4,156,Shrimp
+28,Male,18.9,154,Oats
+51,Male,21.1,97,Oats
+33,Female,18.9,149,Cauliflower
+33,Female,23.1,201,Bell Peppers
+80,Female,20.4,249,Cottage Cheese
+56,Female,22.1,274,Coconut
+80,Male,19.2,207,Tomato Soup
+56,Female,19.1,199,Shakshuka
+34,Male,20.9,228,Brown Rice
+40,Male,22,138,Vegetable Biryani
+28,Male,23.4,90,Chicken Soup
+88,Female,20,230,Stir-Fried Tofu
+51,Male,28.5,143,Spinach
+42,Male,29.9,171,Pav Bhaji
+34,Male,22.9,222,Stir-Fried Tofu
+36,Female,32.7,239,Avocado
+49,Female,28.2,298,Kibbeh Nayyeh
+29,Female,33.4,141,Turkey Chili
+64,Female,21.4,204,Lentil Soup
+75,Male,19.9,300,Pineapple
+89,Female,30.9,102,Aloo Gobi
+78,Male,22.1,92,Lemon Rice
+83,Female,20.8,200,Quinoa
+43,Male,22,142,Spinach
+71,Female,23.4,175,Quorn
+67,Male,21.8,162,Rajasthani Dal
+56,Male,23.9,209,Hummus
+89,Female,20.7,124,Kadhi Pakora
+22,Male,30.6,258,Chicken Biryani
+74,Male,27.9,163,Fish Tacos
+48,Male,29.7,159,Walnuts
+88,Female,30.7,203,Vada Pav
+32,Female,20.6,93,Pork Tenderloin
+75,Male,34.1,199,Asparagus
+71,Male,33.7,175,Manakish
+58,Male,33.1,201,Spinach
+65,Female,27,139,Kadhi Pakora
+67,Female,27.1,226,Coconut Milk
+47,Male,25,266,Quinoa Pasta
+22,Female,19.4,246,Olive Oil
+81,Female,34.4,177,Brown Rice
+28,Male,26.5,256,Artichokes
+40,Male,24.9,291,Walnuts
+28,Female,34,132,Spinach
+26,Female,32.2,272,Blueberries
+89,Male,30.6,255,Eggs
+68,Female,30.5,73,Watermelon
+56,Female,33.8,249,Labneh Manakish
+84,Female,25.7,116,Apples
+42,Female,28.4,114,Dosa
+56,Female,33,241,Grapes
+77,Male,31.7,279,Spinach
+44,Female,27.5,122,Bell Peppers
+90,Female,29.5,149,Fish Curry
+32,Female,23.7,176,Lettuce
+68,Male,25.8,299,Kabsa
+85,Male,21.4,104,Kachori
+73,Male,26.5,130,Baba Ganoush
+20,Female,31.7,84,Peanuts
+73,Female,30.5,192,Roasted Turkey
+67,Male,31.4,101,Green Peas
+59,Female,21.1,264,Celery
+53,Male,20,213,Matar Paneer
+46,Male,34.4,131,Lettuce
+60,Female,29.6,105,Sweet Potato
+85,Male,28.4,130,Lettuce
+67,Female,33.4,217,Gulab Jamun
+58,Male,22.2,119,Kabsa
+73,Male,31.6,90,Pakora
+67,Male,21.2,236,Eggplant
+66,Female,25.4,266,Coconut
+43,Female,27.1,152,Baigan Masala
+73,Female,33.2,153,Salmon
+28,Female,33.5,165,Peanuts
+50,Female,29.1,245,Cabbage
+58,Female,30,238,Soy Milk
+26,Female,19.7,73,Zucchini
+62,Male,21.8,135,Chicken Tikka Masala
+60,Female,25.3,240,Medu Vada
+52,Female,20.2,272,Bell Pepper
+29,Male,22.5,222,Masoor Dal
+42,Female,34.9,231,Mango
+49,Male,19.1,251,Lentils
+75,Female,32.6,140,Upma
+25,Female,29.6,115,Apples
+24,Male,32.5,208,Kheer
+40,Male,29.8,96,Kofta
+24,Female,34.7,136,Grapes
+68,Male,24.4,248,Celery
+38,Female,34.8,270,Vegetable Curry
+59,Male,27.8,81,Quinoa Pasta
+86,Female,27.7,101,Broccoli
+62,Male,25.1,227,Gobi Manchurian
+20,Female,28.1,284,Lamb
+20,Female,26.8,207,Harira Soup
+83,Male,25.5,141,Walnuts
+34,Male,30.7,269,Lettuce
+53,Female,22.5,160,Eggplant
+51,Male,31.8,258,Rajma Chawal
+87,Male,32.1,219,Chicken Tikka Masala
+60,Female,25,147,Pav Bhaji
+84,Female,27.5,162,Cauliflower Rice
+69,Male,23.2,151,Chickpeas
+59,Female,33.9,79,Apple
+43,Male,19.4,273,Kale
+90,Male,30.3,178,Quinoa Salad
+73,Male,23.2,206,Watermelon
+85,Male,24.9,258,Berries (Mixed)
+90,Female,32.8,199,Turkey Breast
+70,Male,28.2,135,Matar Paneer
+58,Male,23,181,Aloo Paratha
+43,Male,31.3,112,Orange
+29,Female,22.5,245,Spinach
+75,Male,21.8,169,Methi Thepla
+64,Female,31.6,269,Dosa
+73,Female,28.6,194,Lentils
+73,Female,24.4,70,Mozzarella Cheese
+80,Male,32.7,85,Cucumber
+56,Male,33.7,265,Aloo Gobi
+44,Male,29.5,246,Chicken Breast
+43,Male,19,273,Soy Milk
+56,Male,19.8,184,Masoor Dal
+24,Male,24.2,228,Ginger
+66,Male,19.2,278,Quorn
+81,Female,23.5,188,Lean Beef
+77,Male,26.9,117,Muhallabia
+85,Female,20.4,224,Eggplant
+63,Female,25.3,288,Brown Rice
+45,Female,19.4,238,Oats
+61,Female,19.3,122,Oats
+52,Male,32.9,87,Pork Tenderloin
+84,Male,30.9,285,Stir-Fried Tofu
+31,Male,27.1,246,Pork Tenderloin
+71,Female,25.1,158,Samboosa
+56,Female,19,102,Fish Tacos
+35,Female,32.5,102,Olive Oil
+84,Male,24.3,273,Orange
+32,Male,28.7,130,Turkey Breast
+22,Female,22.3,179,Rajasthani Dal
+84,Male,33.4,211,Berries (mixed)
+34,Female,32.3,234,Zucchini Noodles
+87,Female,25.7,249,Raita
+67,Male,21.9,279,Kabsa
+31,Male,21.2,299,Veg Biryani
+59,Male,26.4,136,Malai Kofta
+76,Male,24.2,227,Chicken Curry
+37,Male,23.3,297,Mujadara
