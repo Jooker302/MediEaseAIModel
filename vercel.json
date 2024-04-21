@@ -4,6 +4,6 @@
       { "src": "./diabetes_prediction_model_api.py", "use": "@vercel/python" }
     ],
     "routes": [
-      { "src": "/(.*)", "dest": "/diabetes_prediction_model_api.py" }
+      { "src": "/(.*)", "dest": "/" }
     ]
   }
