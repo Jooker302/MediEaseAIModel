@@ -33,7 +33,7 @@ MediEase Python Model is the backend component of the MediEase healthcare system
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url-model>
+   git clone https://github.com/Jooker302/MediEaseAIModel
    cd mediease-model
    ```
 
@@ -42,17 +42,12 @@ MediEase Python Model is the backend component of the MediEase healthcare system
    pip install -r requirements.txt
    ```
 
-3. Set up environment variables:
-   - Create a `.env` file in the root directory and add:
-     ```env
-     MONGODB_URI=<your-mongodb-connection-string>
-     ```
 
 4. Run the server:
    ```bash
    python app.py
    ```
-   The server will run on [http://localhost:5000](http://localhost:5000) (or your specified port).
+   
 
 ## Usage
 - Send a POST request to the recommendation endpoint (e.g., `/api/recommend`) with health report data (e.g., blood pressure, sugar levels).
